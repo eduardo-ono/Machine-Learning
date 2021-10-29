@@ -1,8 +1,8 @@
-# Machine Learning > Conteúdo > Ambientes de Desenvolvimento
+# Machine Learning > Ambientes de Desenvolvimento
 
 Prof. Eduardo Ono
 
-<br><br>
+<br>
 
 > ## Docker
 <br>
