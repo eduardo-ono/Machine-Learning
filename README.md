@@ -22,7 +22,7 @@
 
 ## Canais Recomendados
 
-* https://www.youtube.com/c/CaioDallaqua/videos
+* <https://www.youtube.com/c/CaioDallaqua/videos>
 
 &nbsp;
 
